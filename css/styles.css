@@ -2,3 +2,8 @@
   color: red;
   width: 75%;
 }
+
+.border-box {
+  border-radius: 12px;
+  border-style: solid;
+}
